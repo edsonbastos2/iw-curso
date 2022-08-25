@@ -1,6 +1,6 @@
 ![banner](./assets/images/javascript.jpg)
 
-### Edson Bastos
+### Edson Bastos Dev
 
 # repositorio-javascript
 
